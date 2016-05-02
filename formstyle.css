@@ -1,0 +1,36 @@
+/* S. Shaelyn Ellis - ITD110-V1 PROJ02 */
+
+form {
+	display: table;
+	line-height: normal;
+	font-size: 75%;
+	margin-top: 40px;
+	}
+fieldset {
+	background-color: #8b2500;
+	padding: 12px;
+	}	
+.tbRow {
+	display: table-row;
+	}
+.tbRow p {
+	display: table-cell;
+	padding: 15px 2px 2px 2px;
+	vertical-align: top;
+	}	
+.tbRow > p {
+	text-align: right;
+	}
+div p.alignR {	
+	text-align: left;
+	}
+input#hours {
+	width: 175px;
+	} 
+textarea {
+	width: 250px;
+	height: 75px;
+	}
+input#submit {
+	margin-top: 4px;
+	} 
