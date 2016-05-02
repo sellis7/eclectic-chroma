@@ -1,4 +1,4 @@
 ## EclecticChroma
-*A self-promotion website*
+*Basic self-promotion website*
 
-Viewable [here]().
+Viewable [here](http://sellis7.github.io/eclectic-chroma).
